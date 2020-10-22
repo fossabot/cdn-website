@@ -1,6 +1,6 @@
 # jsDeliverCDN使用
 
-### https://cdn.jsdelivr.net/gh/wztlink1013/CDN@发布的版本号/文件路径///
+### https://cdn.jsdelivr.net/gh/wztlink1013/cdn-website@发布的版本号/文件路径///
 
 
 <b><details><summary>相关使用</summary></b>
