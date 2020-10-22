@@ -6,7 +6,8 @@
 <b><details><summary>相关使用</summary></b>
   
 ### 0、具体使用操作
-[我的博客总结](https://www.wztlink1013.com/2020/02/25/jsDelivr%E5%92%8CGitHub%E6%9E%84%E5%BB%BA%E5%85%8D%E8%B4%B9CDN/)
+- [jsDelivr和Github构建免费CDN](https://blog.wztlink1013.com/yuque/erx9hf/)
+- [GitHub+PicGo构建免费图床及其高效使用](https://blog.wztlink1013.com/yuque/bzf30z/)
   
 ### 1、加载任何Github发布、提交或分支
 https://cdn.jsdelivr.net/gh/user/repo@version/file
