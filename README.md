@@ -1,4 +1,6 @@
 # jsDeliverCDN使用
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwztlink1013%2Fcdn-website.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwztlink1013%2Fcdn-website?ref=badge_shield)
+
 
 ### https://cdn.jsdelivr.net/gh/wztlink1013/cdn-website@1.0.0/ico/heroes_villains/Totoro.ico
 
@@ -32,3 +34,7 @@ https://cdn.jsdelivr.net/gh/jquery/jquery/
 </details>
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwztlink1013%2Fcdn-website.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwztlink1013%2Fcdn-website?ref=badge_large)
